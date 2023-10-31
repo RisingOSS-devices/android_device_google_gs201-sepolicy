@@ -1,0 +1,3 @@
+# Ignore lookup for vendor.google.wireless_charger.IWirelessCharger/default
+# and vendor.google.google_battery.IGoogleBattery/default.
+dontaudit platform_app default_android_service:service_manager find;
