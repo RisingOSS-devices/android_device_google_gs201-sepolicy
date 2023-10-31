@@ -1,0 +1,2 @@
+# Ignore lookup for com.google.face.debug.IDebugManager/default
+dontaudit hal_face_default default_android_service:service_manager add;
